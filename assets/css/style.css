@@ -21,7 +21,12 @@ body {
 
 /* Header */
 header {
-    background-color: lightcoral;
+    background-color: #ffffff;
+    padding : 0 1rem;
+    position:fixed;
+    z-index:99;
+    width:100%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 h1{ font-family: 'Oswald', sans-serif; } /* Added font-family */
 /* Main content */
